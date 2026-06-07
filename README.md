@@ -1,23 +1,22 @@
-# Red Runner
+# Adventure In The Forest
 
-Red Runner, Awesome Platformer Game.
+Adventure In The Forest, Awesome Platformer Game.
 
 It is now free and open source and always will be. :clap: :tada:
 
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
+| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download)
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
+  <img src="https://imgur.com/a/vxElBpq" />
 </p>
 
 [:camera: See Screenshots](#screenshots)
 
-[:movie_camera: **See the Trailer**](https://youtu.be/MO2yJhgtMes)
 
 ## Getting Started
 
-Follow the below instructions to get started with Red Runner source code:
+Follow the below instructions to get started with Adventure In The Forest source code:
 
 1. [Make sure you have all Requirements](#requirements)
 2. [Download Source Code](#download)
@@ -32,44 +31,18 @@ Make sure you have the below requirements before starting:
 
 ## Download
 
-You can get access to Red Runner source code by using one of the following ways:
+You can get access to Adventure In The Forest source code by using one of the following ways:
 
-- [:sparkles: Download Source Code](https://github.com/BayatGames/RedRunner/archive/master.zip)
-- [:fire: Download Source Code from Itch.io](https://bayat.itch.io/red-runner)
+- [:sparkles: Download Source Code](https://github.com/fadhil0215/Adventure-In-The-Forest-Unity-Game-2D.git)
 - Clone the repository locally:
 
 ```bash
-git clone https://github.com/BayatGames/RedRunner.git
+git clone https://github.com/fadhil0215/Adventure-In-The-Forest-Unity-Game-2D.git
 ```
-
-Also you can the build version of the Red Runner using the following ways:
-
-- [:star: Download from Itch.io](https://bayat.itch.io/red-runner)
-
-## Screenshots
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2MC5wbmc=/original/mb636l.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2OS5wbmc=/original/UyNp4U.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc3My5wbmc=/original/RAoMpO.png" />
-</p>
 
 ## Credits
 
-- Graphics: [Free Platform Game Assets](https://bayat.itch.io/platform-game-assets)
-- Save System: [Save Game Pro - Save Everything](https://bayat.itch.io/save-game-pro-save-everything)
 - Game Engine: [Unity](https://unity3d.com/)
-- Thanks to all of the game development community for their awesome help.
 
 ## Related
 
@@ -80,12 +53,10 @@ Also you can the build version of the Red Runner using the following ways:
 
 ## Resources
 
-[:rocket: Patreon](https://www.patreon.com/BayatGames)
-
-[:newspaper: Support and News](https://github.com/BayatGames/Support)
+[:newspaper: Support and News](https://bagibagi.co/Noxxx)
 
 ## License
 
-MIT @ [Bayat Games](https://github.com/BayatGames)
+MIT @ [NxxKillua](https://github.com/fadhil0215)
 
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
+Made with :heart: by [NxxKillua](https://github.com/fadhil0215)
