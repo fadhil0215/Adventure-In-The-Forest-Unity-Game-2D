@@ -7,8 +7,7 @@ It is now free and open source and always will be. :clap: :tada:
 | [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download)
 
 <p align="center">
-  <img src="<a href="https://ibb.co.com/vxyCSpDF"><img src="https://i.ibb.co.com/vxyCSpDF/59-F7-DF80-22-C7-4554-81-A6-E8227-F1-B1-BB4.png" alt="59-F7-DF80-22-C7-4554-81-A6-E8227-F1-B1-BB4" border="0"></a>" />
-</p>
+  <img src="https://i.ibb.co.com/vxyCSpDF/59-F7-DF80-22-C7-4554-81-A6-E8227-F1-B1-BB4.png"</p>
 
 [:camera: See Screenshots](#screenshots)
 
