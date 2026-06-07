@@ -5,10 +5,9 @@ Adventure In The Forest, Awesome Platformer Game.
 It is now free and open source and always will be. :clap: :tada:
 
 | [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download)
-| --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://imgur.com/a/vxElBpq" />
+  <img src="https://file72.com/f/3ZjRexftk5" />
 </p>
 
 [:camera: See Screenshots](#screenshots)
